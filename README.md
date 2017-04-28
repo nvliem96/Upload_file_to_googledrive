@@ -1,1 +1,3 @@
-# Upload_file_to_googledrive
+
+#Cài đặt:
+mvn spring-boot:run
